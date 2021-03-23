@@ -1,8 +1,8 @@
-# LASSOMAN
+# LASSO
 
 Version 0.2
 
-LASSOMAN is a user-friendly interface created with R-Shiny for fitting LASSO models and visualizing results.
+LASSO is a user-friendly interface created with R-Shiny for fitting LASSO models and visualizing results.
 
 # Installation Instructions
 
