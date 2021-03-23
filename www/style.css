@@ -1,0 +1,42 @@
+/* Get a fancy font from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+
+body {
+  color:#000000;
+  font-family: serif;
+}
+
+tr {
+  background-color: #f2e0b960;
+}
+
+/* Make text visible on inputs */
+.navbar{
+  font-family: 'Rye',serif;
+  color:#000000;
+  background-color: #f2e0b960;
+  border: 10px double black;
+}
+
+.navbar-brand{
+  font-family: 'Rye',serif;
+  font-size: 2em;
+}
+
+.col-sm-8{
+  background-color: #f2e0b9;
+  border: 8px double black;
+}
+
+.dataTables_scrollBody{
+  background-color: #f2e0b9;
+}
+
+.well {
+  border: 8px double black;
+  background-color: #f2e0b9;
+}
+
+.tab-content{
+  background-color: #f2e0b9;
+}
